@@ -2,6 +2,10 @@
 
 This a demonstration for a quirk.
 
+## Live demo
+
+http://sashee.github.io/formsy-onchange-handling/dist/
+
 ## Build from source
 
 ```
@@ -10,7 +14,3 @@ npm run watch
 ```
 
 and open at `localhost:8080`
-
-## Live demo
-
-http://sashee.github.io/formsy-onchange-handling/dist/
