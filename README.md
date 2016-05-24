@@ -10,3 +10,7 @@ npm run watch
 ```
 
 and open at `localhost:8080`
+
+## Live demo
+
+http://sashee.github.io/formsy-onchange-handling/dist/
